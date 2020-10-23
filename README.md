@@ -1,6 +1,6 @@
 # discord-bots
 My very basic bots: a work in progress. <br>
-This bot is currently running with a virtual machine.
+Bots are currently running with a virtual machine.
 
 ```
 hello_world_bot.py
