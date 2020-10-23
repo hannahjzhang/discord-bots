@@ -5,6 +5,9 @@ This bot is currently running with a virtual machine.
 ```
 hello_world_bot.py
 - Name: Hello World
-- Keywords: responds to !hello and !world
+- Keywords: !hello and !world
 - Output: text and emoji reaction
+
+dice_bot.py
+- Work in progress
 ```
