@@ -19,7 +19,7 @@ greet_bot.py
 dice_bot.py
 ```
 - Name: Dice Bot
-- Keywords: <i>roll<i> and <i>dice<i>
+- Keywords: roll and dice
 - Working on expanding capabilities
 ```
 
