@@ -1,11 +1,10 @@
 # discord-bots
 My very basic bots: a work in progress. <br>
-Bots are currently running with a virtual machine.
 
 hello_world_bot.py <br>
 ```
 - Name: Hello World
-- Keywords: !hello and !world
+- Keywords: hello and world
 - Output: text and emoji reaction
 - Currently working on adding reactions to reactions
 ```
@@ -19,6 +18,8 @@ greet_bot.py
 
 dice_bot.py
 ```
-- Coming later
+- Name: Dice Bot
+- Keywords: <i>roll<i> and <i>dice<i>
+- Working on expanding capabilities
 ```
 
