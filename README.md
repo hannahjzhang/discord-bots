@@ -2,12 +2,21 @@
 My very basic bots: a work in progress. <br>
 Bots are currently running with a virtual machine.
 
+hello_world_bot.py <br>
 ```
-hello_world_bot.py
 - Name: Hello World
 - Keywords: !hello and !world
 - Output: text and emoji reaction
-
-dice_bot.py
-- Work in progress
+- Currently working on adding reactions to reactions
 ```
+
+greet_bot.py
+```
+- Greet new members and say goodbye to leaving members
+- Doesn't work yet
+```
+dice_bot.py
+```
+- Coming later
+```
+
