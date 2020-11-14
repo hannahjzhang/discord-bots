@@ -12,9 +12,11 @@ hello_world_bot.py <br>
 
 greet_bot.py
 ```
+- Name: Greet Bot
 - Greet new members and say goodbye to leaving members
 - Doesn't work yet
 ```
+
 dice_bot.py
 ```
 - Coming later
