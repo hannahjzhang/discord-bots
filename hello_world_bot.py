@@ -27,7 +27,7 @@ async def on_message(message):
 async def on_reaction_add(reaction, user):
   react = str(reaction)
   if react == "👋":
-    await channel.send('hello to you too')
+    await channel.send('hello to you toooooo')
   if react == '🌎':
     await channel.send('world hello world')
 
