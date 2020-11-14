@@ -1,6 +1,7 @@
 # bot tokens
 hello_world_key.py
 greet_bot_key.py
+__pycache__
 
 # ds store
 .DS_Store

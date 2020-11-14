@@ -1,5 +1,5 @@
 import discord
-import key
+import hello_world_key
 
 #create discord client
 client = discord.Client()
@@ -19,4 +19,4 @@ async def on_message(message):
     await message.add_reaction('👋')
 
 # to run the bot
-client.run(key.KEY)
+client.run(hello_world_key.KEY)
