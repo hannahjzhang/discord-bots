@@ -1,5 +1,5 @@
 # discord-bots
-My very basic bots: a work in progress. <br>
+My very basic bots: *a work in progress*. <br>
 
 hello_world_bot.py <br>
 ```
