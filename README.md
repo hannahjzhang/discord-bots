@@ -21,6 +21,7 @@ dice_bot.py
 Name: Dice Bot
 Keywords: roll and dice
 Currently running on a virtual machine
+Rolls two six-sided dice and outputs the sum
 Working on expanding capabilities
 ```
 
