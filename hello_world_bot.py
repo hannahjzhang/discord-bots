@@ -21,15 +21,10 @@ async def on_message(message):
   if message.content == ('world'):
     await message.channel.send('oh hello')
     await message.add_reaction('🌚')
-
-# respond to certain reactions
-@client.event
-async def on_reaction_add(reaction, user):
-  react = str(reaction)
-  if react == "👋":
-    await channel.send('hello to you toooooo')
-  if react == '🌎':
-    await channel.send('world hello world')
+  if message.content == ('👋'):
+    await message.channel.send('hello to you too')
+  if message.content == ('🌎'):
+    await message.channel.send('world hello world')
 
 # to run the bot
 client.run(TOKEN)
