@@ -18,7 +18,6 @@ async def on_message(message):
     randNum1 = randint(1, 6)
     randNum2 = randint(1, 6)
     randNum = randNum1 + randNum2
-    await message.add_reaction('👍')
     await message.channel.send(randNum)
 
 client.run(TOKEN)
